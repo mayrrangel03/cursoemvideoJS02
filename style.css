@@ -1,0 +1,15 @@
+body {
+    background-color: #A57763;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+section {
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
